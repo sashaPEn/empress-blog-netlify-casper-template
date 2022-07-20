@@ -1,6 +1,6 @@
 ---
 title: 1 Сентября - День знаний
-image: /images/welcome.jpg
+image: https://gim.roo-stolin.gov.by/files/00765/obj/120/37883/img/IMG_20210901_090903.jpg
 imageMeta:
   attribution:
   attributionLink:
