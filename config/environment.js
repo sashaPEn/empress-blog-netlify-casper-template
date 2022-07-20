@@ -24,17 +24,17 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Новости | 9Б ',
+      description: 'Столинской государственной гимназии',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [
         {
-          label: 'Home',
+          label: 'Главная',
           route: 'index',
         },
         {
-          label: 'Built by Chris Manson',
+          label: 'Наши сайты',
           route: 'page',
           id: 'chris-manson',
         },
