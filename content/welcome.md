@@ -1,6 +1,6 @@
 ---
 title: 1 Сентября - День знаний
-image: /public/images/IMG_20210901_090903.jpg
+image: ./public/images/IMG_20210901_090903.jpg
 imageMeta:
   attribution:
   attributionLink:
