@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: 1 Сентября - День знаний
 image: /images/welcome.jpg
 imageMeta:
   attribution:
